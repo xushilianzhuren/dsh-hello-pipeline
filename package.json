@@ -1,0 +1,1 @@
+{"name":"dsh-hello-pipeline","version":"1.0.0","private":false,"type":"module","description":"Pipeline smoke-test plugin: mounts a tiny ping section. 流水线实测件：挂一个最小区块验证发布全链。","license":"MIT","main":"./index.js","dsh":{"bundle":{"patch":"./cordis.patch.yml"}}}

@@ -1,0 +1,4 @@
+- insert:
+    - id: hello-pipeline
+      name: 'dsh-hello-pipeline'
+      config: { enabled: true }
